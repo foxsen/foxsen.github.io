@@ -131,6 +131,7 @@ comments:
     clientSecret: e87b972c278c4579ad67f70ed1979d78c494e305
     repository  : foxsen.github.io
     owner       : foxsen # GitHub repo owner
+    proxy       : 'https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token'
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - foxsen
       - xieby1
