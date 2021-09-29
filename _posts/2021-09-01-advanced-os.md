@@ -2,6 +2,7 @@
 title: advanced operating system course resources
 tags: os
 cover: /docs/assets/images/axure/page-aside.jpg
+key: advanced_operating_system_course_resources
 aside:
   toc: true
 ---
